@@ -1,0 +1,106 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dougwsharpe.com" resolutions="1x" timestamp="1475575105847">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4118146703" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u164-4.png" crc="385079560" ref="index"/>
+    <file name="1golisano-preview-crop-u249.jpg" crc="4130951809" ref="index"/>
+    <file name="2reddick-preview-crop-u239.jpg" crc="3966867625" ref="index"/>
+    <file name="adaptation_skyscraper-preview-crop-u343.jpg" crc="187663041" ref="index"/>
+    <file name="elevations-sections-edit-crop-u777.jpg" crc="438684182" ref="index"/>
+    <file name="work_samples-16_0930-edit-crop-u355.jpg" crc="1030044" ref="index"/>
+    <file name="dsharpe-cv-cph-16_0904-crop-u361.jpg" crc="4269057228" ref="index"/>
+    <file name="grad_portfolio-crop-u367.jpg" crc="3837236946" ref="index"/>
+    <file name="undergraduate_portfolio-edit-crop-u373.jpg" crc="203299134" ref="index"/>
+    <file name="2g4-preview-crop-u379.jpg" crc="4222478651" ref="index"/>
+    <file name="2g3-preview-crop-u385.jpg" crc="3893229673" ref="index"/>
+    <file name="vorogami-preview-crop-u391.jpg" crc="4221707158" ref="index"/>
+    <file name="close_encounters-preview-crop-u398.jpg" crc="4138587226" ref="index"/>
+    <file name="2g2-preview-crop-u404.jpg" crc="4070906527" ref="index"/>
+    <file name="2g1-preview-crop-u410.jpg" crc="4155888638" ref="index"/>
+    <file name="software_knowledge-crop-u416.jpg" crc="140214654" ref="index"/>
+    <file name="digi-fab-crop-u422.jpg" crc="80398358" ref="index"/>
+    <file name="travel_video-crop-u428.jpg" crc="40838865" ref="index"/>
+    <file name="composite-crop-u434.jpg" crc="4201085718" ref="index"/>
+    <file name="junkspace-crop-u440.jpg" crc="4033076866" ref="index"/>
+    <file name="dissection-crop-u446.jpg" crc="4007763510" ref="index"/>
+    <file name="urban_ocean-crop-u452.jpg" crc="3889519275" ref="index"/>
+    <file name="int_lic_v02-crop-u642.jpg" crc="3890834436" ref="index"/>
+    <file name="wave-full_site-crop-u686.jpg" crc="3978252720" ref="index"/>
+    <file name="dscn5367-crop-u774.jpg" crc="430864905" ref="index"/>
+    <file name="wave-cnc-panel_images-thumbnail-crop-u743.jpg" crc="398313595" ref="index"/>
+    <file name="1golisano-preview-crop-u201.jpg" crc="174436202" ref="index"/>
+    <file name="u292-8.png" crc="3859214246" ref="index"/>
+    <file name="2reddick-preview-crop-u246.jpg" crc="5237367" ref="index"/>
+    <file name="u296-6.png" crc="3769244929" ref="index"/>
+    <file name="adaptation_skyscraper-preview-crop-u461.jpg" crc="155839869" ref="index"/>
+    <file name="u298-6.png" crc="4263045583" ref="index"/>
+    <file name="elevations-sections-edit-crop-u464.jpg" crc="209156983" ref="index"/>
+    <file name="u300-6.png" crc="389452393" ref="index"/>
+    <file name="work_samples-16_0930-crop-u468.jpg" crc="533877558" ref="index"/>
+    <file name="u302-6.png" crc="324339991" ref="index"/>
+    <file name="dsharpe-cv-cph-16_0904-crop-u471.jpg" crc="3776712927" ref="index"/>
+    <file name="u304-6.png" crc="439665451" ref="index"/>
+    <file name="grad_portfolio-crop-u474.jpg" crc="3809259018" ref="index"/>
+    <file name="u306-6.png" crc="4200031610" ref="index"/>
+    <file name="undergraduate_portfolio-edit-crop-u477.jpg" crc="4291241841" ref="index"/>
+    <file name="u308-6.png" crc="4140008064" ref="index"/>
+    <file name="2g4-preview-crop-u480.jpg" crc="3795678134" ref="index"/>
+    <file name="u310-8.png" crc="4086266539" ref="index"/>
+    <file name="2g3-preview-crop-u483.jpg" crc="3865973470" ref="index"/>
+    <file name="u312-8.png" crc="3972236352" ref="index"/>
+    <file name="vorogami-preview-crop-u486.jpg" crc="3985575855" ref="index"/>
+    <file name="u314-8.png" crc="3880059069" ref="index"/>
+    <file name="close_encounters-preview-crop-u489.jpg" crc="517895863" ref="index"/>
+    <file name="u316-6.png" crc="4077464489" ref="index"/>
+    <file name="2g2-preview-crop-u492.jpg" crc="3864183044" ref="index"/>
+    <file name="u318-6.png" crc="146686688" ref="index"/>
+    <file name="2g1-preview-crop-u495.jpg" crc="102444914" ref="index"/>
+    <file name="u320-6.png" crc="112547793" ref="index"/>
+    <file name="software_knowledge-crop-u498.jpg" crc="4021806162" ref="index"/>
+    <file name="u322-8.png" crc="3762150352" ref="index"/>
+    <file name="digi-fab-crop-u501.jpg" crc="1173284" ref="index"/>
+    <file name="u324-8.png" crc="3802030332" ref="index"/>
+    <file name="travel_video-crop-u504.jpg" crc="3782412953" ref="index"/>
+    <file name="u326-8.png" crc="4041092285" ref="index"/>
+    <file name="composite-crop-u507.jpg" crc="242377487" ref="index"/>
+    <file name="u330-8.png" crc="4154046001" ref="index"/>
+    <file name="junkspace-crop-u510.jpg" crc="343147875" ref="index"/>
+    <file name="u332-6.png" crc="276573313" ref="index"/>
+    <file name="dissection-crop-u513.jpg" crc="3910871306" ref="index"/>
+    <file name="u334-8.png" crc="4261064220" ref="index"/>
+    <file name="urban_ocean-crop-u516.jpg" crc="4078433773" ref="index"/>
+    <file name="u336-6.png" crc="3853756219" ref="index"/>
+    <file name="int_lic_v02.jpg" crc="3942720696" seo="true" ref="index"/>
+    <file name="u641-8.png" crc="487765292" ref="index"/>
+    <file name="wave-full_site-crop-u692.jpg" crc="3909788495" ref="index"/>
+    <file name="u685-8.png" crc="70551639" ref="index"/>
+    <file name="dscn5367-crop-u680.jpg" crc="4293524497" ref="index"/>
+    <file name="u684-6.png" crc="214228137" ref="index"/>
+    <file name="wave-cnc-panel_images-thumbnail.jpg" crc="4233781212" seo="true" ref="index"/>
+    <file name="u754-8.png" crc="4274925077" ref="index"/>
+    <file name="u220-4.png" crc="4239860096" ref="index"/>
+    <file name="u224-4.png" crc="3785736762" ref="index"/>
+    <file name="u702-4.png" crc="17023179" ref="index"/>
+    <file name="u704-4.png" crc="4228355589" ref="index"/>
+    <file name="u712-4.png" crc="3881645384" ref="index"/>
+    <file name="u716-4.png" crc="3909387739" ref="index"/>
+    <file name="u718-4.png" crc="250344138" ref="index"/>
+    <file name="u714-4.png" crc="17023179" ref="index"/>
+    <file name="u218-4.png" crc="4286179439" ref="index"/>
+    <file name="u222-4.png" crc="4205720624" ref="index"/>
+  </folder>
+  <file name="index.html" crc="272842386" seo="true" mt="1475575036625" redirect="true"/>
+</manifest>
